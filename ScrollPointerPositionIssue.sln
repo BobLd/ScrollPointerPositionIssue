@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScrollPointerPositionIssue", "ScrollPointerPositionIssue\ScrollPointerPositionIssue.csproj", "{1382B76E-BE0B-4230-AAC7-FE40AD35FACE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScrollPointerPositionIssue.Desktop", "ScrollPointerPositionIssue.Desktop\ScrollPointerPositionIssue.Desktop.csproj", "{9628694E-E63C-4A6C-986F-71F877838871}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1382B76E-BE0B-4230-AAC7-FE40AD35FACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1382B76E-BE0B-4230-AAC7-FE40AD35FACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1382B76E-BE0B-4230-AAC7-FE40AD35FACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1382B76E-BE0B-4230-AAC7-FE40AD35FACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9628694E-E63C-4A6C-986F-71F877838871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9628694E-E63C-4A6C-986F-71F877838871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9628694E-E63C-4A6C-986F-71F877838871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9628694E-E63C-4A6C-986F-71F877838871}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E266A0F0-D3D0-4A45-A961-6974FE6CE55F}
+	EndGlobalSection
+EndGlobal

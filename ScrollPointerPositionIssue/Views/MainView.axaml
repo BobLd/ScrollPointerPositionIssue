@@ -1,0 +1,486 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="clr-namespace:ScrollPointerPositionIssue.ViewModels"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="ScrollPointerPositionIssue.Views.MainView"
+             x:DataType="vm:MainViewModel">
+    <Design.DataContext>
+        <!-- This only sets the DataContext for the previewer in an IDE,
+         to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
+        <vm:MainViewModel />
+    </Design.DataContext>
+
+    <ScrollViewer VerticalScrollBarVisibility="Auto"
+                  HorizontalScrollBarVisibility="Auto"
+                  Focusable="True"
+                  HorizontalAlignment="Stretch"
+                  VerticalAlignment="Stretch"
+                  IsScrollInertiaEnabled="True">
+        <StackPanel>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+            <Border>
+                <Button Height="25" HorizontalAlignment="Stretch"/>
+            </Border>
+        </StackPanel>
+    </ScrollViewer>
+</UserControl>
